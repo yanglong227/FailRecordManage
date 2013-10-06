@@ -1,0 +1,12 @@
+C:\Users\YangLong\AppData\Local\Temporary Projects\FailRecordSystem\bin\Debug\FailRecordSystem.exe
+C:\Users\YangLong\AppData\Local\Temporary Projects\FailRecordSystem\bin\Debug\FailRecordSystem.pdb
+C:\Users\YangLong\AppData\Local\Temporary Projects\FailRecordSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\YangLong\AppData\Local\Temporary Projects\FailRecordSystem\obj\Debug\FailRecordSystem.Form1.resources
+C:\Users\YangLong\AppData\Local\Temporary Projects\FailRecordSystem\obj\Debug\FailRecordSystem.Properties.Resources.resources
+C:\Users\YangLong\AppData\Local\Temporary Projects\FailRecordSystem\obj\Debug\FailRecordSystem.csproj.GenerateResource.Cache
+C:\Users\YangLong\AppData\Local\Temporary Projects\FailRecordSystem\obj\Debug\FailRecordSystem.exe
+C:\Users\YangLong\AppData\Local\Temporary Projects\FailRecordSystem\obj\Debug\FailRecordSystem.pdb
+C:\Users\YangLong\AppData\Local\Temporary Projects\FailRecordSystem\obj\Debug\FailRecordSystem.Form2.resources
+C:\Users\YangLong\AppData\Local\Temporary Projects\FailRecordSystem\obj\Debug\FailRecordSystem.Form3.resources
+C:\Users\YangLong\AppData\Local\Temporary Projects\FailRecordSystem\obj\Debug\FailRecordSystem.Form4.resources
+C:\Users\YangLong\AppData\Local\Temporary Projects\FailRecordSystem\obj\Debug\FailRecordSystem.Form5.resources
